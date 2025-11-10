@@ -1,4 +1,4 @@
-# DebugHelper v1.0.367 / 09nov2025 / MIT License
+# Debug Helper v1.0.367 / 09nov2025 / MIT License
 Ever had a sneaky exception/runtime error that's slipped past Borland Dehlpi 3's internal debugger and left you wondering where it went wrong?  Well wonder no more.  Plug the exception address into Debug Helper and lookup it up in realtime.  Designed for use with Borland Delphi 3 debug "map" files.  Save time and frustration hunting down those rare but often difficult and elusive errors.
 
 <img src="images/dhelp-screenshot.jpg">
